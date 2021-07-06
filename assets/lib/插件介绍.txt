@@ -1,0 +1,4 @@
+cropper  图片裁剪插件
+layui  负责布局插件
+tinymce 负文本编译器插件
+template-web.js模板引擎
